@@ -1,8 +1,8 @@
 body{
-  background: purple;
+  backgraund: red;
 }
 
 form label{
-  display:block;
+  displey: block;
   font-size: 20px;
 }
