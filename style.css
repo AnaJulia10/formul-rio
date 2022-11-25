@@ -1,5 +1,5 @@
 body{
-  backgraund:red;
+  backgraund:radial-gradient (red,black)
 }
 
 form label{
